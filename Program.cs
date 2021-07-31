@@ -4,8 +4,9 @@ using System.Diagnostics;
 using System.Threading.Tasks;
 
 /// <summary>
-/// This is the code from plus some annotations
+/// This is the code from
 /// https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/
+///  plus some annotations.
 /// This is the simplest, most concrete explanation I've seen of 
 /// async/await.
 /// </summary>
